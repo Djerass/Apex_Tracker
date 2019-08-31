@@ -1,0 +1,18 @@
+@import "../../shared_styles/mixins";
+@import "../../shared_styles/vars";
+
+.btn {
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  &_dark {
+    @include dark_transparent_bg(0.7);
+    color: #ffffff;
+  }
+  &_primary {
+    color: #ffffff;
+    background-color: $primary-color;
+  }
+}

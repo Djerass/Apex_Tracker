@@ -1,0 +1,15 @@
+@import "../../shared_styles/container";
+@import "../../shared_styles/vars";
+@import "../../shared_styles/mixins";
+
+.not_found {
+  display: flex;
+  color: #ffffff;
+  text-align: center;
+
+  &_inner {
+    padding: 2rem;
+    border: 2px solid #ffffff;
+    @include dark_transparent_bg(0.5);
+  }
+}

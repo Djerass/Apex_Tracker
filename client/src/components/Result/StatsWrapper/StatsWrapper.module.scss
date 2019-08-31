@@ -1,0 +1,14 @@
+@import "../../../shared_styles/mixins";
+
+.stats_wrapper {
+  @include dark_transparent_bg(0.7);
+  padding: 0.7rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  &_value {
+    font-size: 1.3rem;
+    &_percent {
+      font-size: 0.7rem;
+    }
+  }
+}

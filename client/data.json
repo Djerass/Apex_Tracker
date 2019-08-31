@@ -1,0 +1,701 @@
+{
+  "data": {
+    "platformInfo": {
+      "platformSlug": "psn",
+      "platformUserId": "Daltoosh",
+      "platformUserHandle": "Daltoosh",
+      "platformUserIdentifier": "Daltoosh",
+      "avatarUrl": "https://avatar-cdn.tracker.gg/api/avatar/2/daltoosh.png",
+      "additionalParameters": null
+    },
+    "userInfo": {
+      "isPremium": false,
+      "isVerified": false,
+      "isInfluencer": false,
+      "countryCode": "US",
+      "customAvatarUrl": null,
+      "socialAccounts": null
+    },
+    "metadata": {
+      "currentSeason": 2,
+      "activeLegend": "legend_4",
+      "activeLegendName": "Mirage"
+    },
+    "segments": [
+      {
+        "type": "overview",
+        "attributes": {},
+        "metadata": {
+          "name": "Lifetime"
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "level": {
+            "rank": 4,
+            "percentile": 99.9,
+            "displayName": "Level",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 1661,
+            "displayValue": "1,661",
+            "displayType": "Unspecified"
+          },
+          "kills": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 60181,
+            "displayValue": "60,181",
+            "displayType": "Unspecified"
+          },
+          "killsPerMatch": {
+            "rank": null,
+            "percentile": 99,
+            "displayName": "Kills Per Match",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 4.91,
+            "displayValue": "4.91",
+            "displayType": "Unspecified"
+          },
+          "winningKills": {
+            "rank": null,
+            "percentile": 99.9,
+            "displayName": "Winning Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 324,
+            "displayValue": "324.00",
+            "displayType": "Unspecified"
+          },
+          "killsAsKillLeader": {
+            "rank": null,
+            "percentile": 99.9,
+            "displayName": "Kills As Kill Leader",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 29390,
+            "displayValue": "29,390",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": 3,
+            "percentile": 99.9,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 10298204,
+            "displayValue": "10,298,204",
+            "displayType": "Unspecified"
+          },
+          "matchesPlayed": {
+            "rank": null,
+            "percentile": 97.9,
+            "displayName": "Matches Played",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 210,
+            "displayValue": "210",
+            "displayType": "Unspecified"
+          },
+          "revives": {
+            "rank": null,
+            "percentile": 99.9,
+            "displayName": "Revives",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 2987,
+            "displayValue": "2,987",
+            "displayType": "Unspecified"
+          },
+          "sniperKills": {
+            "rank": null,
+            "percentile": 99.8,
+            "displayName": "Sniper Kills",
+            "displayCategory": "Weapons",
+            "category": null,
+            "metadata": {},
+            "value": 104,
+            "displayValue": "104",
+            "displayType": "Unspecified"
+          },
+          "seasonWins": {
+            "rank": 236,
+            "percentile": 99.9,
+            "displayName": "Season 1 Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 701,
+            "displayValue": "701",
+            "displayType": "Unspecified"
+          },
+          "seasonDamage": {
+            "rank": 15181,
+            "percentile": 98.9,
+            "displayName": "Season 1 Damage",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 525902,
+            "displayValue": "525,902",
+            "displayType": "Unspecified"
+          },
+          "seasonKills": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Season 1 Kills",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 30314,
+            "displayValue": "30,314",
+            "displayType": "Unspecified"
+          },
+          "rankScore": {
+            "rank": 6,
+            "percentile": 99.9,
+            "displayName": "Rank Score",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {
+              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/apex.png"
+            },
+            "value": 3299,
+            "displayValue": "3,299",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_4"
+        },
+        "metadata": {
+          "name": "Mirage",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-mirage.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/mirage-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/mirage-concept-bg-small.jpg",
+          "isActive": true
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 28727,
+            "percentile": 87,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 344,
+            "displayValue": "344",
+            "displayType": "Unspecified"
+          },
+          "killsAsKillLeader": {
+            "rank": 1639,
+            "percentile": 99.3,
+            "displayName": "Kills As Kill Leader",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 64,
+            "displayValue": "64",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_2"
+        },
+        "metadata": {
+          "name": "Bangalore",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bangalore.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bangalore-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bangalore-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 80,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 294,
+            "displayValue": "294",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_9"
+        },
+        "metadata": {
+          "name": "Octane",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-octane.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 15707,
+            "percentile": 93,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 699,
+            "displayValue": "699",
+            "displayType": "Unspecified"
+          },
+          "killsAsKillLeader": {
+            "rank": 331,
+            "percentile": 99.8,
+            "displayName": "Kills As Kill Leader",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 346,
+            "displayValue": "346",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": 7996,
+            "percentile": 96.6,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 136876,
+            "displayValue": "136,876",
+            "displayType": "Unspecified"
+          },
+          "seasonWins": {
+            "rank": 24857,
+            "percentile": 88,
+            "displayName": "Season 1 Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 16,
+            "displayValue": "16",
+            "displayType": "Unspecified"
+          },
+          "seasonDamage": {
+            "rank": 18246,
+            "percentile": 92,
+            "displayName": "Season 1 Damage",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 103152,
+            "displayValue": "103,152",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_5"
+        },
+        "metadata": {
+          "name": "Bloodhound",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 68,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 93,
+            "displayValue": "93",
+            "displayType": "Unspecified"
+          },
+          "beastOfTheHuntKills": {
+            "rank": 12426,
+            "percentile": 95,
+            "displayName": "Beast of the Hunt: Kills",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 2,
+            "displayValue": "2",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_6"
+        },
+        "metadata": {
+          "name": "Gibraltar",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/gibraltar-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/gibraltar-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 1971,
+            "percentile": 99.1,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 658,
+            "displayValue": "658",
+            "displayType": "Unspecified"
+          },
+          "killsPerMatch": {
+            "rank": 53,
+            "percentile": 99.9,
+            "displayName": "Kills Per Match",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 4.91,
+            "displayValue": "4.91",
+            "displayType": "Unspecified"
+          },
+          "matchesPlayed": {
+            "rank": 630,
+            "percentile": 99.6,
+            "displayName": "Matches Played",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 134,
+            "displayValue": "134",
+            "displayType": "Unspecified"
+          },
+          "revives": {
+            "rank": 294,
+            "percentile": 99.8,
+            "displayName": "Revives",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 41,
+            "displayValue": "41",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_7"
+        },
+        "metadata": {
+          "name": "Lifeline",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-lifeline.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/lifeline-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/lifeline-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 48480,
+            "displayValue": "48,480",
+            "displayType": "Unspecified"
+          },
+          "winningKills": {
+            "rank": 24,
+            "percentile": 99.9,
+            "displayName": "Winning Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 324,
+            "displayValue": "324.00",
+            "displayType": "Unspecified"
+          },
+          "killsAsKillLeader": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Kills As Kill Leader",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 24882,
+            "displayValue": "24,882",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 10161328,
+            "displayValue": "10,161,328",
+            "displayType": "Unspecified"
+          },
+          "revives": {
+            "rank": 15,
+            "percentile": 99.9,
+            "displayName": "Revives",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 2946,
+            "displayValue": "2,946",
+            "displayType": "Unspecified"
+          },
+          "seasonWins": {
+            "rank": 38,
+            "percentile": 99.9,
+            "displayName": "Season 1 Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 661,
+            "displayValue": "661",
+            "displayType": "Unspecified"
+          },
+          "seasonKills": {
+            "rank": 1,
+            "percentile": 99.9,
+            "displayName": "Season 1 Kills",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 30314,
+            "displayValue": "30,314",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_3"
+        },
+        "metadata": {
+          "name": "Caustic",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-caustic.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/caustic-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/caustic-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 27451,
+            "percentile": 79,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 98,
+            "displayValue": "98",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_10"
+        },
+        "metadata": {
+          "name": "Wattson",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wattson.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wattson-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wattson-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 21161,
+            "percentile": 60,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 56,
+            "displayValue": "56",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_8"
+        },
+        "metadata": {
+          "name": "Pathfinder",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-pathfinder.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": 452,
+            "percentile": 99.9,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 9085,
+            "displayValue": "9,085",
+            "displayType": "Unspecified"
+          },
+          "killsAsKillLeader": {
+            "rank": 41,
+            "percentile": 99.9,
+            "displayName": "Kills As Kill Leader",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 4098,
+            "displayValue": "4,098",
+            "displayType": "Unspecified"
+          },
+          "sniperKills": {
+            "rank": 713,
+            "percentile": 99.8,
+            "displayName": "Sniper Kills",
+            "displayCategory": "Weapons",
+            "category": null,
+            "metadata": {},
+            "value": 104,
+            "displayValue": "104",
+            "displayType": "Unspecified"
+          },
+          "seasonWins": {
+            "rank": 30154,
+            "percentile": 91,
+            "displayName": "Season 1 Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 24,
+            "displayValue": "24",
+            "displayType": "Unspecified"
+          },
+          "seasonDamage": {
+            "rank": 5223,
+            "percentile": 98.7,
+            "displayName": "Season 1 Damage",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 403954,
+            "displayValue": "403,954",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_1"
+        },
+        "metadata": {
+          "name": "Wraith",
+          "imageUrl": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-concept-bg-small.jpg",
+          "isActive": false
+        },
+        "expiryDate": "2019-08-30T19:54:51.8820352Z",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 76,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 374,
+            "displayValue": "374",
+            "displayType": "Unspecified"
+          },
+          "killsPerMatch": {
+            "rank": 735,
+            "percentile": 99.7,
+            "displayName": "Kills Per Match",
+            "displayCategory": "Combat",
+            "category": null,
+            "metadata": {},
+            "value": 4.92,
+            "displayValue": "4.92",
+            "displayType": "Unspecified"
+          },
+          "matchesPlayed": {
+            "rank": 12060,
+            "percentile": 96.4,
+            "displayName": "Matches Played",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 76,
+            "displayValue": "76",
+            "displayType": "Unspecified"
+          },
+          "seasonDamage": {
+            "rank": 43530,
+            "percentile": 89,
+            "displayName": "Season 1 Damage",
+            "displayCategory": "Game",
+            "category": null,
+            "metadata": {},
+            "value": 18796,
+            "displayValue": "18,796",
+            "displayType": "Unspecified"
+          }
+        }
+      }
+    ],
+    "availableSegments": [
+      {
+        "type": "legend",
+        "attributes": {}
+      }
+    ],
+    "expiryDate": "2019-08-30T19:54:51.8820352Z"
+  }
+}

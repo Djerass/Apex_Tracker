@@ -1,0 +1,12 @@
+@import "../../shared_styles/container";
+
+.header_outer {
+}
+
+.header_inner {
+  &_img {
+    img {
+      width: 300px;
+    }
+  }
+}

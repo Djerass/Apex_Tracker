@@ -1,0 +1,9 @@
+@import "../../shared_styles/vars";
+.Layout {
+  background-color: $primary-color;
+  background-image: url("../../images/octane.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}

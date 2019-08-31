@@ -1,0 +1,47 @@
+@import "../../shared_styles/vars";
+@import "../../shared_styles/container";
+@import "../../shared_styles/mixins";
+
+.search_outer {
+}
+
+.search_inner {
+  width: 100%;
+  &_form {
+    width: 100%;
+    padding: 2rem;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    @include dark_transparent_bg(0.5);
+    &_header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+    &_group {
+      display: flex;
+      flex-direction: column;
+      label {
+        margin-bottom: 0.2rem;
+      }
+      input,
+      select {
+        margin-bottom: 0.5rem;
+        padding: 0.2rem;
+      }
+      input {
+        padding: 0.4rem;
+      }
+    }
+    &_submit {
+      button {
+        width: 100%;
+        border: none;
+        background-color: $primary-color;
+        color: #ffffff;
+        padding: 0.4rem;
+        margin-top: 0.5rem;
+      }
+    }
+  }
+}
